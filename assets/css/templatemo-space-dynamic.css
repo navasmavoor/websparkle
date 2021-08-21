@@ -1473,7 +1473,7 @@ responsive
     right: 0;
   }
   .about-us .services {
-    
+    text-align: center;
   }
   .about-us .services .item  {
     background: rgb(255,77,30);
